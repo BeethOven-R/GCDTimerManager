@@ -1,0 +1,22 @@
+{
+  "name": "GCDTimerManager",
+  "version": "0.1.0",
+  "summary": "A short description of GCDTimerManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wjr723@126.com/GCDTimerManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wjr723@126.com": "wjr723@126.com"
+  },
+  "source": {
+    "git": "https://github.com/wjr723@126.com/GCDTimerManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GCDTimerManager/Classes/**/*"
+}

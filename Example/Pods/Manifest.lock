@@ -1,0 +1,16 @@
+PODS:
+  - GCDTimerManager (0.1.0)
+
+DEPENDENCIES:
+  - GCDTimerManager (from `../`)
+
+EXTERNAL SOURCES:
+  GCDTimerManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GCDTimerManager: f04e7acc3d9b1dd274703c6954acf47b44e058c9
+
+PODFILE CHECKSUM: d2340d9f01cd23c29b0a31de6b60ec0dcc5430af
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module Pods_GCDTimerManager_Example {
+  umbrella header "Pods-GCDTimerManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
